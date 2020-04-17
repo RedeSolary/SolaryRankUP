@@ -1,0 +1,151 @@
+MySQL:
+  Ativar: false
+  User: 'root'
+  Password: '123'
+  Host: 'localhost'
+  Database: 'SolaryRankUP'
+  
+Ranks:
+    MercurioIII:
+        order: 0
+        name: "&8[Mercúrio III]"
+        cost: 1000.0
+        headName: "http://textures.minecraft.net/texture/3178f235768ed2f0f1a07ab02b92f599cc42c741d2f733e5368b5a10484b3cb"
+
+    MercurioII:
+        order: 1
+        name: "&8[Mercúrio II]"
+        cost: 3000.0
+        headName: "http://textures.minecraft.net/texture/3178f235768ed2f0f1a07ab02b92f599cc42c741d2f733e5368b5a10484b3cb"
+
+    MercurioI:
+        order: 2
+        name: "&8[Mercúrio I]"
+        cost: 10000.0
+        headName: "http://textures.minecraft.net/texture/3178f235768ed2f0f1a07ab02b92f599cc42c741d2f733e5368b5a10484b3cb"
+
+    VenusIII:
+        order: 3
+        name: "&8[Vênus III]"
+        cost: 1000.0
+        headName: "http://textures.minecraft.net/texture/0ef147ddc908e6825c229997aa529761f51691a11c955129a233632d554875e"
+
+    VenusII:
+        order: 4
+        name: "&8[Vênus II]"
+        cost: 3000.0
+        headName: "http://textures.minecraft.net/texture/0ef147ddc908e6825c229997aa529761f51691a11c955129a233632d554875e"
+
+    VenusI:
+        order: 5
+        name: "&8[Vênus I]"
+        cost: 10000.0
+        headName: "http://textures.minecraft.net/texture/0ef147ddc908e6825c229997aa529761f51691a11c955129a233632d554875e"
+
+    TerraIII:
+        order: 6
+        name: "&8[Terra III]"
+        cost: 1000.0
+        headName: "http://textures.minecraft.net/texture/b1dd4fe4a429abd665dfdb3e21321d6efa6a6b5e7b956db9c5d59c9efab25"
+
+    TerraII:
+        order: 7
+        name: "&8[Terra II]"
+        cost: 3000.0
+        headName: "http://textures.minecraft.net/texture/b1dd4fe4a429abd665dfdb3e21321d6efa6a6b5e7b956db9c5d59c9efab25"
+
+    TerraI:
+        order: 8
+        name: "&8[Terra I]"
+        cost: 10000.0
+        headName: "http://textures.minecraft.net/texture/b1dd4fe4a429abd665dfdb3e21321d6efa6a6b5e7b956db9c5d59c9efab25"
+
+    MarteIII:
+        order: 9
+        name: "&8[Marte III]"
+        cost: 1000.0
+        headName: "http://textures.minecraft.net/texture/777d616bc44ac9b3730fed47f29a378f88a16728c67048c1a387d229e1cba"
+
+    MarteII:
+        order: 10
+        name: "&8[Marte II]"
+        cost: 3000.0
+        headName: "http://textures.minecraft.net/texture/777d616bc44ac9b3730fed47f29a378f88a16728c67048c1a387d229e1cba"
+
+    MarteI:
+        order: 11
+        name: "&8[Marte I]"
+        cost: 10000.0
+        headName: "http://textures.minecraft.net/texture/777d616bc44ac9b3730fed47f29a378f88a16728c67048c1a387d229e1cba"
+
+    JupiterIII:
+        order: 12
+        name: "&8[Júpiter III]"
+        cost: 1000.0
+        headName: "http://textures.minecraft.net/texture/b8aaa8a3561e80ef1f9561f17211e770de18a9f98c2691ecf9d696559a1b918c"
+
+    JupiterII:
+        order: 13
+        name: "&8[Júpiter II]"
+        cost: 3000.0
+        headName: "http://textures.minecraft.net/texture/b8aaa8a3561e80ef1f9561f17211e770de18a9f98c2691ecf9d696559a1b918c"
+
+    JupiterI:
+        order: 14
+        name: "&8[Júpiter I]"
+        cost: 10000.0
+        headName: "http://textures.minecraft.net/texture/b8aaa8a3561e80ef1f9561f17211e770de18a9f98c2691ecf9d696559a1b918c"
+
+    SaturnoIII:
+        order: 15
+        name: "&8[Saturno III]"
+        cost: 1000.0
+        headName: "http://textures.minecraft.net/texture/665cd3a24f193371eebac9a71c48f408a935afc4b435f1fb7b9843e6587298f"
+
+    SaturnoII:
+        order: 16
+        name: "&8[Saturno II]"
+        cost: 3000.0
+        headName: "http://textures.minecraft.net/texture/665cd3a24f193371eebac9a71c48f408a935afc4b435f1fb7b9843e6587298f"
+
+    SaturnoI:
+        order: 17
+        name: "&8[Saturno I]"
+        cost: 10000.0
+        headName: "http://textures.minecraft.net/texture/665cd3a24f193371eebac9a71c48f408a935afc4b435f1fb7b9843e6587298f"
+
+    UranoIII:
+        order: 18
+        name: "&8[Urano III]"
+        cost: 1000.0
+        headName: "http://textures.minecraft.net/texture/aa6dd75f41e4268e0a1269050907aa6746ffd37a4a929e732524642c336bc"
+
+    UranoII:
+        order: 19
+        name: "&8[Urano II]"
+        cost: 3000.0
+        headName: "http://textures.minecraft.net/texture/aa6dd75f41e4268e0a1269050907aa6746ffd37a4a929e732524642c336bc"
+
+    UranoI:
+        order: 20
+        name: "&8[Urano I]"
+        cost: 10000.0
+        headName: "http://textures.minecraft.net/texture/aa6dd75f41e4268e0a1269050907aa6746ffd37a4a929e732524642c336bc"
+
+    NetunoIII:
+        order: 21
+        name: "&8[Netuno III]"
+        cost: 1000.0
+        headName: "http://textures.minecraft.net/texture/87d66f93909a6d4641c653082e04749691de82cf77232bd20ab32adf4f"
+
+    NetunoII:
+        order: 22
+        name: "&8[Netuno II]"
+        cost: 3000.0
+        headName: "http://textures.minecraft.net/texture/87d66f93909a6d4641c653082e04749691de82cf77232bd20ab32adf4f"
+        commands:
+    NetunoI:
+        order: 23
+        name: "&8[Netuno I]"
+        cost: 10000.0
+        headName: "http://textures.minecraft.net/texture/87d66f93909a6d4641c653082e04749691de82cf77232bd20ab32adf4f"

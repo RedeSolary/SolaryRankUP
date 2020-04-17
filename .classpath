@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SolaryCore"/>
+	<classpathentry kind="lib" path="C:/libraries/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/libraries/LuckPerms-Bukkit-4.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/libraries/PaperSpigot-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="C:/libraries/UltimateChat-1.8.8-b196-Universal.jar"/>
+	<classpathentry kind="lib" path="C:/libraries/Vault-1.6.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

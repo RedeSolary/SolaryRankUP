@@ -1,0 +1,9 @@
+main: br.com.solary.rankup.RankUP
+name: SolaryRankUP
+version: 0.0.1-SNAPSHOT
+authors: [Aureom]
+depend: [SolaryCore]
+
+commands:
+  rankup:
+  ranks:
